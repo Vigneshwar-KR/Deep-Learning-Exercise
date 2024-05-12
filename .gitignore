@@ -1,0 +1,33 @@
+# These are some examples. You may update it based on your requirements.
+# DO NOT FORGET to add datasets folders here!
+
+#Notebooks' checkpoints
+.ipynb_checkpoints
+
+#bytecodes
+__pycache__
+
+#videos
+*.m4v
+
+#MacOS 
+__MACOSX
+.DS_Store
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Environments
+.env
+
+# Visual Studio Code 
+.vscode
+
+# Datasets
+Week_01_Exercise/ISPRS_semantic_labeling_Vaihingen/
+Week_01_Exercise/UCMerced_LandUse/
+Week_02_Exercise/data/
+Week_03_Exercise/UCMerced_LandUse/
+
+
